@@ -1,0 +1,117 @@
+{
+ "drawing": "Modules/COMMUNICATION/M780/MECHANICAL/19xx - M780 - DOC - 780-03-005 - PMUBVE EINSH NONJE.png",
+ "version": 1,
+ "trace": "_traces/3be4a01321aa64e4.svg",
+ "sheet": {
+  "number": "780-03-005",
+  "title": "",
+  "dtype": "03",
+  "type": "mechanical",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1414],
+  "mm": [431.8, 305.3],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 10.3, 431.3, 297.9],
+ "outlines": {
+  "line": {"rings": 119, "straight": {"n": 2774, "mm": 7364.6}, "curved": {"n": 298, "mm": 437.1}},
+  "text": {"rings": 214, "straight": {"n": 1583, "mm": 1901.9}, "curved": {"n": 434, "mm": 674.1}},
+  "tb": {"rings": 28, "straight": {"n": 239, "mm": 359.8}, "curved": {"n": 55, "mm": 84.7}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 1233, "straight": {"n": 1296, "mm": 2860.6}, "curved": {"n": 7, "mm": 7.1}},
+   "text": {"paths": 1481, "straight": {"n": 1958, "mm": 1614.5}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 620, "straight": {"n": 701, "mm": 1159.2}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 39,
+  "orientation": {"horizontal": {"n": 1078, "mm": 2929.9}, "vertical": {"n": 925, "mm": 1225.1}, "diagonal": {"n": 1952, "mm": 1479.3}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [124.3, 197.1], "r": 1.3, "kind": "arc", "span": 108, "from": ["centre line"], "start": 10},
+  {"c": [78.6, 121.8], "r": 1.3, "kind": "arc", "span": 226, "from": ["centre line"], "start": 58}
+ ],
+ "boxes": [
+  {"mm": [93.9, 141.6, 159.5, 215.5], "w": 65.6, "h": 73.8, "from": "ring"},
+  {"mm": [346.1, 71.2, 411.3, 77.3], "w": 65.2, "h": 6.1, "from": "ring", "words": ["REVISION"], "in_title_block": true},
+  {"mm": [411.7, 71.2, 424.2, 77.3], "w": 12.5, "h": 6.0, "from": "ring", "words": ["APP"], "in_title_block": true},
+  {"mm": [319.3, 71.2, 332.1, 77.1], "w": 12.7, "h": 5.8, "from": "ring", "in_title_block": true},
+  {"mm": [332.7, 71.2, 345.4, 77.1], "w": 12.7, "h": 5.8, "from": "ring", "in_title_block": true},
+  {"mm": [286.5, 52.7, 424.2, 70.4], "w": 137.7, "h": 17.6, "from": "ring", "words": ["WBS", "WARD-BECK", "systEMS"], "in_title_block": true},
+  {
+   "mm": [319.5, 26.4, 424.4, 52.5],
+   "w": 104.9,
+   "h": 26.1,
+   "from": "ring",
+   "words": ["M780 , MZ8OA", "POWER", "SUPPLY", "SHIELD"],
+   "in_title_block": true
+  },
+  {"mm": [286.7, 33.0, 318.9, 39.1], "w": 32.2, "h": 6.0, "from": "ring", "words": ["CKD:"], "in_title_block": true},
+  {"mm": [398.8, 13.4, 424.2, 26.1], "w": 25.5, "h": 12.7, "from": "ring", "words": ["ISSUE"]},
+  {"mm": [286.7, 13.4, 319.1, 25.9], "w": 32.4, "h": 12.5, "from": "ring", "words": ["SCALE 1:1", "5.015", "XX $.005"]},
+  {"mm": [319.5, 13.4, 332.3, 25.9], "w": 12.8, "h": 12.5, "from": "ring"},
+  {"mm": [332.9, 13.4, 398.1, 25.9], "w": 65.2, "h": 12.5, "from": "ring", "words": ["780-03-005"]}
+ ],
+ "text": {
+  "words": 28,
+  "lines": [
+   {"mm": [120.0, 247.9, 138.0, 252.2], "text": "2.500"},
+   {"mm": [102.8, 232.1, 118.5, 236.9], "text": "1.156"},
+   {"mm": [61.7, 203.6, 73.2, 207.9], "text": "700"},
+   {"mm": [182.2, 176.0, 200.6, 181.5], "text": "2.843"},
+   {"mm": [57.4, 167.3, 72.1, 171.6], "text": "2.00"},
+   {"mm": [170.3, 121.1, 235.1, 126.9], "text": "440 DIA: 3 PLACES"},
+   {"mm": [120.0, 119.4, 136.2, 123.7], "text": "1.750"},
+   {"mm": [319.3, 71.9, 345.2, 76.7], "text": "JISSUE |DATE"},
+   {"mm": [369.4, 71.9, 388.8, 76.2], "text": "REVISION"},
+   {"mm": [413.7, 71.9, 422.3, 76.2], "text": "APP"},
+   {"mm": [295.8, 57.0, 419.1, 65.2], "text": "WBS WARD-BECK systEMS"},
+   {"mm": [197.3, 48.1, 283.7, 53.7], "text": "MATE:EISHPAPER 032THK"},
+   {"mm": [344.1, 42.3, 396.0, 50.0], "text": "M780 , MZ8OA"},
+   {"mm": [197.3, 41.2, 242.7, 46.8], "text": "EINISH:NONE"},
+   {"mm": [288.0, 33.5, 297.7, 37.8], "text": "CKD:"},
+   {"mm": [329.0, 34.1, 410.0, 39.6], "text": "POWER SUPPLY SHIELD"},
+   {"mm": [288.0, 27.0, 296.6, 31.3], "text": "APP"},
+   {"mm": [296.0, 21.2, 317.6, 25.5], "text": "SCALE 1:1"},
+   {"mm": [405.0, 21.2, 418.0, 26.0], "text": "ISSUE"},
+   {"mm": [288.0, 14.0, 312.8, 18.4], "text": "XX $.005"},
+   {"mm": [297.1, 17.9, 310.7, 22.2], "text": "5.015"},
+   {"mm": [342.0, 16.6, 387.8, 21.4], "text": "780-03-005"}
+  ],
+  "scale": "1:1"
+ },
+ "title_block": {
+  "mm": [279.3, 15.0, 431.0, 82.8],
+  "from": "title-block words (training set)",
+  "text": [
+   "JISSUE |DATE",
+   "REVISION",
+   "APP",
+   "WBS WARD-BECK systEMS",
+   "M780 , MZ8OA",
+   "CKD:",
+   "POWER SUPPLY SHIELD",
+   "APP",
+   "SCALE 1:1",
+   "ISSUE",
+   "XX $.005",
+   "5.015",
+   "780-03-005"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** mechanical 780-03-005, size B (assumed) 432 × 305 mm, 2000 × 1414 px traced (0.216 mm/px); scale 1:1",
+  "- **Ink extent:** 0–431 mm across, 10–298 mm up",
+  "- **Outlines:** line 119 rings, 2,774 straight (7,365 mm) / 298 curved (437 mm); text 214 rings, 1,583 straight (1,902 mm) / 434 curved (674 mm); tb 28 rings, 239 straight (360 mm) / 55 curved (84.7 mm)",
+  "- **Centre lines:** 3,334 paths (39 closed); straight 5,634 mm, curved 7.1 mm; horizontal 2,930 mm, vertical 1,225 mm, diagonal 1,479 mm",
+  "- **Circles and arcs:** 0 circles, 2 arcs",
+  "- **Closed boxes:** 12 (7 in the title block); named: ISSUE; SCALE 1:1 5.015 XX $.005; 780-03-005",
+  "- **Words (OCR):** 28 in 22 lines: 2.500 · 1.156 · 700 · 2.843 · 2.00 · 440 DIA: 3 PLACES · 1.750 · JISSUE |DATE · REVISION · APP · WBS WARD-BECK systEMS · MATE:EISHPAPER 032THK",
+  "- **Title block:** (279, 15)–(431, 83) mm: JISSUE |DATE · REVISION · APP · WBS WARD-BECK systEMS · M780 , MZ8OA · CKD: · POWER SUPPLY SHIELD · APP · SCALE 1:1 · ISSUE · XX $.005 · 5.015 · 780-03-005"
+ ]
+}
