@@ -25,7 +25,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 28 in 22 lines: 2.500 · 1.156 · 700 · 2.843 · 2.00 · 440 DIA: 3 PLACES · 1.750 · JISSUE |DATE · REVISION · APP · WBS WARD-BECK systEMS · MATE:EISHPAPER 032THK
 - **Title block:** (279, 15)–(431, 83) mm: JISSUE |DATE · REVISION · APP · WBS WARD-BECK systEMS · M780 , MZ8OA · CKD: · POWER SUPPLY SHIELD · APP · SCALE 1:1 · ISSUE · XX $.005 · 5.015 · 780-03-005
 
-Every curve, box, word and wire group: [19xx - M780 - DOC - 780-03-005 - PMUBVE EINSH NONJE (traced).json](../MECHANICAL/19xx%20-%20M780%20-%20DOC%20-%20780-03-005%20-%20PMUBVE%20EINSH%20NONJE%20(traced).json) (the CAD file: `19xx - M780 - DOC - 780-03-005 - PMUBVE EINSH NONJE (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M780 - DOC - 780-03-005 - PMUBVE EINSH NONJE (traced).json](../MECHANICAL/19xx%20-%20M780%20-%20DOC%20-%20780-03-005%20-%20PMUBVE%20EINSH%20NONJE%20%28traced%29.json) (the CAD file: `19xx - M780 - DOC - 780-03-005 - PMUBVE EINSH NONJE (traced).dxf`).
 
 ## Full text
 
