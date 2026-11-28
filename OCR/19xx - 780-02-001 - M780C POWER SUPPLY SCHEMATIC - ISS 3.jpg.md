@@ -1,5 +1,5 @@
 # 19xx - 780-02-001 - M780C POWER SUPPLY SCHEMATIC - ISS 3.jpg
-Wiki page: [M780](../../../../PAGES/M780.md)
+Wiki page: [M780](../)
 
 
 - **Year:** unknown (title block (read by eye))

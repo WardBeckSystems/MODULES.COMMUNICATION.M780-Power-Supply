@@ -1,5 +1,5 @@
 # 1981 - 780-03-005 - , M780A POWER SUPPLY SHIELD - DRN P. MAHONEY - ENG MBW - ISS 1.png
-Wiki page: [M780](../../../../PAGES/M780.md)
+Wiki page: [M780](../)
 
 
 - **Year:** 1981 (title block date)

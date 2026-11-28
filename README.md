@@ -1,6 +1,6 @@
 # M780 Power Supply · Communication
 
-Ward-Beck Systems M780, 1981|14. Wiki page: [M780 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M780.html)
+Ward-Beck Systems M780, 1981|14. Wiki page: [M780 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M780-Power-Supply/)
 
 | Folder | What is in it | Files |
 |---|---|---|
